@@ -19,7 +19,6 @@ import (
 	"github.com/liamg/github-profile-terminal-action/config"
 	"github.com/liamg/github-profile-terminal-action/terminal"
 	"github.com/liamg/github-profile-terminal-action/theme"
-	"github.com/mmcdole/gofeed"
 	"github.com/nfnt/resize"
 )
 
